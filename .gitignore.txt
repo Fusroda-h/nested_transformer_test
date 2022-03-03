@@ -1,7 +1,8 @@
 # 폴더 제외
-SynologyDrive/
+/SynologyDrive/
 
 # 확장자
 *.jpg
+*.png
 
 
